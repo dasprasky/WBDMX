@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WBDMX</string>
+    <string name="button_name">SEARCH FOR DEVICES</string>
+    <string name="disconnect_button">DISCONNECT</string>
+    <string name="heart_rate">Heart Rate: </string>
+    <string name="RRI">RRI: </string>
+    <string name="device_name">Device Name: </string>
+    <string name="record">Start Recording</string>
+</resources>
